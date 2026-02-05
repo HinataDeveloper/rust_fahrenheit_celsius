@@ -1,0 +1,7 @@
+
+    let celsius: f64 = 13.36;
+    let fahrenheit = celsius_to_fahrenheit(celsius);
+    println!(" fahrenheit = {fahrenheit:.2}");
+
+    let celsius = fahrenheit_to_celsius(fahrenheit);
+    println!(" celsius = {celsius:.2}");
